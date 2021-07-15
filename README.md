@@ -21,4 +21,4 @@ La facilidad en su uso mostrando un menú de navegación sencillo que nos mueva 
 
 ### Instalacion.
 
-Descargar archivo .APK en un dispositivo movil y aceptar intalacion y condiciones de uso.
+Descargar archivo .APK en un dispositivo movil Android y aceptar intalacion y condiciones de uso.
